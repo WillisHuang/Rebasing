@@ -8,5 +8,6 @@ class Person
 public:
 	double age;
 	std::string Name;
+	double Height;
 };
 
